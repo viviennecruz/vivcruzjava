@@ -1,0 +1,70 @@
+medical
+University of Toronto
+85
+McMaster University
+90
+Queens University 
+90
+computer science        
+University of Toronto 
+90
+University of Waterloo 
+90
+University of Guelph 
+83
+engineering
+University of Toronto 
+85
+University of Waterloo 
+88
+Queens University
+85
+business      
+Queens University 
+87
+University of Toronto 
+85
+Laurier University 
+90
+arts    
+OCAD
+70
+Ryerson University 
+73
+Western 
+85
+english
+University of Ottawa 
+75
+University of Toronto 
+75
+Brock University
+75
+teacher    
+Brock University 
+80
+Queens University
+85
+Ryerson University 
+75
+lawyer
+University of Toronto 
+85
+Queens University 
+80
+Ryerson University  
+85
+police
+Guelph- Humber
+75
+Brock University 
+77
+Laurentian University
+70
+math
+University of Toronto 
+85
+University of Waterloo 
+85
+McMaster University 
+83
